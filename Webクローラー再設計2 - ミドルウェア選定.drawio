@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-07T11:28:52.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="SolQ6ur8Q7mORsQFWCUl" version="12.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T11:38:21.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="q7aVkrbzq7uXRMn60b9o" version="12.6.6" type="github">
   <diagram id="E8VWyrnDabmsOFFXzIdR" name="Page-1">
-    <mxGraphModel dx="2239" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -137,8 +137,8 @@
         <mxCell id="G1gDlCIY-DG2FSS1MBPs-40" value="キューのURLを&lt;br&gt;クローリング" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="155.5" width="100" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="G1gDlCIY-DG2FSS1MBPs-41" value="fluentdで&lt;br&gt;書き込む" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="705" y="469" width="60" height="30" as="geometry"/>
+        <mxCell id="G1gDlCIY-DG2FSS1MBPs-41" value="BogQueryAPIで書き込む" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="480" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="G1gDlCIY-DG2FSS1MBPs-44" value="クロールしたい&lt;br&gt;メディアのドメインを&lt;br&gt;登録する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="160.5" width="130" height="50" as="geometry"/>
@@ -301,9 +301,6 @@
         </mxCell>
         <mxCell id="G1gDlCIY-DG2FSS1MBPs-108" value="DataStudio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="574" width="70" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="5l9rVbOh739QggWtO0Mg-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/jolly-icons-social-media-and-communication/120/2007-social-twitter-tweet-bird-128.png" vertex="1" parent="1">
-          <mxGeometry x="660" y="459" width="50" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
