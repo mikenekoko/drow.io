@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-07T11:38:21.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="q7aVkrbzq7uXRMn60b9o" version="12.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-07T12:24:07.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="vnVhvtFM8BJwaZHRC0By" version="12.6.6" type="github">
   <diagram id="E8VWyrnDabmsOFFXzIdR" name="Page-1">
-    <mxGraphModel dx="2239" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -44,8 +44,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1gDlCIY-DG2FSS1MBPs-8" value="ASPと&lt;br&gt;メディアを&lt;br&gt;取得" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="60" width="70" height="50" as="geometry"/>
+        <mxCell id="G1gDlCIY-DG2FSS1MBPs-8" value="クロール対象の&lt;br&gt;メディアを&lt;br&gt;取得" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="314" y="60" width="100" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="G1gDlCIY-DG2FSS1MBPs-9" value="メディア" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1092" y="-90" width="120" height="80" as="geometry"/>
